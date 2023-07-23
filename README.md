@@ -1,6 +1,6 @@
 # Hi there! <img alt="" src="https://media1.tenor.com/images/e5a6c8fff7422d5a137feade378401ac/tenor.gif?itemid=5530137" width="50px"> I'm Abhishek Dhondalkar 🧑‍🔬👋
 
-A Passionate Software Developer with expertise in a variety of programming languages and frameworks, along with a strong background in Machine Learning, web development, and database management. 🚀
+>A Passionate Software Developer with expertise in a variety of programming languages and frameworks, along with a strong background in Machine Learning, web development, and database management. 🚀
 
 ## About Me 👤
 
