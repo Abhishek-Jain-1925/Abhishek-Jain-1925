@@ -7,7 +7,7 @@ A Passionate Software Developer with expertise in a variety of programming langu
 - 🎓 Currently pursuing my Masters at Fergusson College Pune.
 - ✈️ Love to visit ancient places and enjoy traveling.
 - 💻 I use daily: *.js, .java, .py, .sql*
-- 🎵 Music is life, and I enjoy listening to it.
+- 🎵 Music = Sukoon , and I enjoy Singing, listening to it.
 - 💫 Dream to achieve something different for life.
 
 ## Skills 🛠️
