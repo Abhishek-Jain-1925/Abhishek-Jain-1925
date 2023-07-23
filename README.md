@@ -40,7 +40,7 @@ Feel free to explore my repositories to get a better understanding of the projec
 If you have any questions, collaboration opportunities, or just want to say hi, feel free to reach out to me. You can connect with me via:
 
 - 📧 jainabhishek1925@gmail.com - Drop me an email, and I'll get back to you as soon as possible.
-- 🌐 linkedin.com/in/abhishek-dhondalkar-7ab14220b - Let's connect on LinkedIn for professional networking and discussions.
+- 🌐 LinkedIn - [linkedin.com/in/abhishek-dhondalkar-7ab14220b] - Let's connect on LinkedIn for professional networking and discussions.
 
 Thank you for visiting my profile, and I look forward to connecting with you! 😊
 
